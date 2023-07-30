@@ -1,0 +1,31 @@
+{
+  "name": "@smithg09/dragger",
+  "version": "0.1.3",
+  "description": "A tiny, zero-dependency library for making DOM elements draggable.",
+  "main": "dragger.js",
+  "files": [
+    "dragger.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smithg09/dragger.js.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "draggable",
+    "dragger"
+  ],
+  "author": "Smith Gajjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smithg09/dragger.js/issues"
+  },
+  "homepage": "https://github.com/smithg09/dragger.js#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
