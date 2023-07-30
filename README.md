@@ -1,14 +1,8 @@
 # dragger.js
 
-A tiny JS library to make DOM elements draggable and movable with Zero dependencies. [Demo here](dragger.js/docs/).
+A tiny JS library to make DOM elements draggable and movable with Zero dependencies. [Demo here](https://dragger.smithgajjar.dev/).
 
 ## Usage
-
-### Node
-```shell
-npm install @smithg09/dragger
-```
-
 ```javascript
 import { dragger } from @smithg09/dragger;
 
@@ -19,6 +13,6 @@ dragger(document.querySelector("#dragBox"), document.querySelector("#dragBox .dr
 ```
 
 ### ES6 module
-[Check this example](index.html) to include dragger.js as a `<script>` directly on an HTML page.
+[Check this example](https://github.com/smithg09/draggerjs/blob/main/docs/index.html) to include dragger.js as a `<script>` directly on an HTML page.
 
 Licensed under the MIT License.
